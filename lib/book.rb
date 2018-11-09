@@ -8,5 +8,9 @@ class Book
     @title = title
   end
   
+  def turn_page
+    # What does this do?
+  end
+  
 end
 
