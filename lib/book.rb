@@ -9,7 +9,7 @@ class Book
   end
   
   def turn_page
-    # What does this do?
+    puts "Flipping the page...wow, you read fast!"
   end
   
 end
